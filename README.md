@@ -5,7 +5,7 @@
 
 <!-- skill set -->
 <div align="left">
-<h1> <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAXklEQVR4nO3UQQqAMBBD0Tme9dgWL2IP8qUVoYuqi86Ai7ztQAIp1Ex+A1iBwrwCpFGBR/jtGBU0Dks0Knh0DaSJXmiiqYnCv4pUDx7hwNIH78TJtSAHFmzfryYW7AQHxZjU+7G05gAAAABJRU5ErkJggg==" alt='tech_stack'/> Tech Stack</h1>
+<h1> <img width='25' height='25' src='https://img.icons8.com/pastel-glyph/64/41b883/code--v1.png' alt='tech_stack'/> Tech Stack</h1>
 </div>
 
 <div align="center">
