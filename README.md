@@ -59,8 +59,6 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href='https://t.me/mobinbarfi'>
-    <img width='40' height='40' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD/ElEQVR4nO1azY8NWRQv4nOIz4xBQoJYWIlE/AEiMhNGsBDxsRKW4jO9Ic2OZiId/c55j4Ww86Lr3tfdaIResBIiIuKjHzZ04mNGLMwMeuYnp7pM97xXr6ru7apXTZzkJJXUrVPnd8/HPedUOc53+kapeBJTVA6rNeOoJpxXjIeK8YcmfBCWa0V4IPc04Yis7SBMdoYCdZ3CGEXYrBhXNOMfzYARE3o145KbwyaR5dSbir9hrGLs0YQeY+Vrg+pRhN0iuy4gXMJKRXiaGIBqfqJzWJGuGzGaUwRQyWfaCvghURCtBczQjDt1BAGfb3W0YHoiIM4R5nrmrj8I+LFTFh0GZwnCNEV4nBkI7o8ba8tI9sjInRDEinDbKkUrwomsldfVTMYpdggojSB2Cb+YuFR2wc0RTCjHcjFN2Ju5shzJO0NBCNJEy46YrBifNONPg/UvQq0iBWDdlCf8qxmdpTzWXmjGhK5GjFCMDgMZG2sD6ati0wbxVjOOtTPmV7l1HrsM5HTW7Cf8sjot97mrCNsuncG4kI1sii2T0KuOYVKVEM1YkziAvo1p14RlAIbVdIV+HZSh/FVBQo4mCKBHMQ7o45gZpXyFDvcMrdxULURa0MEDuK4J6wsFjAxStK2A2dIRyprKe42NGG6SuXxur3qJbXGoCO+lnGllLAzbbcXYohjvxPKB93OYZRF3D4Ms8rvh7pcVocE9jqlhAKRqVYxSTVfwqURYarGRr4KAfIhpgctS74grOBEkQwVvktL33MGwtZqx1cIif5sDIfS6OSyPUt7b3ZP46X8ZiLAv6hmj1MthQBhvIizxl5vDgiiFXMY6RXg94LmGOOCNUy97sl/bBbscQoxrUrS5BcyrjAVNOFtRgoQXdwPfz+hOJNgN65wvyt5XhFYPXGVVQNgeF4Sc9lYDPg5Iv0keiIpwwzEgl7HE6j0ckAX9uW0iQDThWbEF4+MCkTPGCkgev1YJk4FywkXjPU1YFAeIVMMW1vhULGBi8M4QLqfQMB0qFjEqwiJXLdz3YugBliSQAXwnrITRjJcWQDZk0+rKNxLCfukEAyaZpiCeX2jG6DAri3vtTskqX/iWzmPxf9YgHLYAssMZCuMg77AkdCnCaU34aPQsozv2xFG+T6RsFWsu5fFzLBADTJ7PWmldbY0Wx5S8wBd/HjogbkYGeC0qNuNHTXiUNQhNKEtr4AyGvPRIKGcK4gTmOEmQ164SbmfhTqXBWqKSxD/r/TG0mOanaunX03Q1xeg2TrG25Ge0nTIVTxDACzmxM/kDQtzNLzQ7rVoAaZ0JF2Wybp1akyYZKMss1p+GtHs/0MhAw/+pRq79n2raZI00RTX7ie/kfP30GU2jYfR29TJ/AAAAAElFTkSuQmCC" alt='telegram'/>
+    <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/000000/telegram.png" alt="telegram"/>
   </a>
 </p>
-
-<a  href="https://icons8.com/icon/lUktdBVdL4Kb/telegram">Telegram</a> icon by <a href="https://icons8.com">Icons8</a>
