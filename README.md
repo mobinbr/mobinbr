@@ -5,7 +5,9 @@
 
 <!-- skill set -->
 <div align="left">
-<h1> <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAXklEQVR4nO3UQQqAMBBD0Tme9dgWL2IP8qUVoYuqi86Ai7ztQAIp1Ex+A1iBwrwCpFGBR/jtGBU0Dks0Knh0DaSJXmiiqYnCv4pUDx7hwNIH78TJtSAHFmzfryYW7AQHxZjU+7G05gAAAABJRU5ErkJggg==" alt='tech_stack'/> Tech Stack</h1>
+<h1>
+<!-- <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAXklEQVR4nO3UQQqAMBBD0Tme9dgWL2IP8qUVoYuqi86Ai7ztQAIp1Ex+A1iBwrwCpFGBR/jtGBU0Dks0Knh0DaSJXmiiqYnCv4pUDx7hwNIH78TJtSAHFmzfryYW7AQHxZjU+7G05gAAAABJRU5ErkJggg==" alt='tech_stack'/> -->
+💻 Tech Stack</h1>
 </div>
 
 <div align="center">
@@ -34,7 +36,8 @@
 
 
 <!-- status information -->
-# <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABAElEQVR4nO3VP0oDQRiG8YWAdjZaJDcQ9BZaaeMR0vkXBGsLTyEKYfUSgiiSM3gBO7GzUzt/MviJcSHB2d2Igh8MO8t8PM87MwtbFH+hsI0Sa5iZhmAHj94rPQ/aFqziymeVbUBn0cdtQB9wGfP1JuAFHAZQCPohHMQR5d8DlnGKZ7ziAiuVnk3s5kA72MBNpH3CCRazE1bAc9jHXYDvcYT5RuCA70VSkTztoDOhv4dzXMdI8+4kwRaOsfTNQAn4MiJI87PcXfXGpcQwjZHeL+9F05RaEgzHQX6PQM1zliGodc4yBLUg/gXFlC+5bLJWFXTTVzPSmH7iH59prbUfqTd8Yy0edFmlyAAAAABJRU5ErkJggg=="> Stats
+<!-- <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABAElEQVR4nO3VP0oDQRiG8YWAdjZaJDcQ9BZaaeMR0vkXBGsLTyEKYfUSgiiSM3gBO7GzUzt/MviJcSHB2d2Igh8MO8t8PM87MwtbFH+hsI0Sa5iZhmAHj94rPQ/aFqziymeVbUBn0cdtQB9wGfP1JuAFHAZQCPohHMQR5d8DlnGKZ7ziAiuVnk3s5kA72MBNpH3CCRazE1bAc9jHXYDvcYT5RuCA70VSkTztoDOhv4dzXMdI8+4kwRaOsfTNQAn4MiJI87PcXfXGpcQwjZHeL+9F05RaEgzHQX6PQM1zliGodc4yBLUg/gXFlC+5bLJWFXTTVzPSmH7iH59prbUfqTd8Yy0edFmlyAAAAABJRU5ErkJggg=="> -->
+# 📊 Stats
 <p align=center>
     <img width='400' height='150' src='https://streak-stats.demolab.com/?user=mobinbr&theme=midnight-purple&hide_border=true&show_icons=true&border_radius=10'/>
     <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=mobinbr&theme=midnight-purple&hide_border=true&show_icons=true&border_radius=10'/>
@@ -47,9 +50,10 @@
 <br>
 
 <!-- connection details -->
-# <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABU0lEQVR4nN2VPU4DMRCFN0hQhCAo6aHhANCDRBUkfqIAV0iAAwB34ArQwFEiQWigAwESlKmDQpUvGukZraz14k22iHjNyp5nP894njdJ/hWAHeAB6Otbz+B8A+/AHXAMzBbZPAt1j+fjE9iNEehqwTkwD1xofO/xqsAacAI8p4SugEqegKVuqGm8oHE/Z00FaAEDJ5In4E5jJ68Blxo/RWS/BfyIvx8iNYGhV98h0PhLQOvbWvMBzGURloCOJ9ABFiMFZlJVaPrBZeA10EUvFo8UOQO+LBs/cKPNrJPW1SkbwKPmr2OzCAV62mjFm1/VfC+ZZvePDcLu38sim3sbwHYBgW6M+x350BkreFmTuN/MoYfL0EoiQFH3AwcimO03IwSKu1+vohNp55VrLPfL8k4EleFUT3S1NPdbq6Xu5Belut9+h8ARcAu8WdekYtPr/lIxAuFvHbNBrpZyAAAAAElFTkSuQmCC"> Find me online
+<!-- # <img width='25' height='25' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABU0lEQVR4nN2VPU4DMRCFN0hQhCAo6aHhANCDRBUkfqIAV0iAAwB34ArQwFEiQWigAwESlKmDQpUvGukZraz14k22iHjNyp5nP894njdJ/hWAHeAB6Otbz+B8A+/AHXAMzBbZPAt1j+fjE9iNEehqwTkwD1xofO/xqsAacAI8p4SugEqegKVuqGm8oHE/Z00FaAEDJ5In4E5jJ68Blxo/RWS/BfyIvx8iNYGhV98h0PhLQOvbWvMBzGURloCOJ9ABFiMFZlJVaPrBZeA10EUvFo8UOQO+LBs/cKPNrJPW1SkbwKPmr2OzCAV62mjFm1/VfC+ZZvePDcLu38sim3sbwHYBgW6M+x350BkreFmTuN/MoYfL0EoiQFH3AwcimO03IwSKu1+vohNp55VrLPfL8k4EleFUT3S1NPdbq6Xu5Belut9+h8ARcAu8WdekYtPr/lIxAuFvHbNBrpZyAAAAAElFTkSuQmCC"> -->
+# 🌐 Find me online
 
-<p align='center'>
+<!-- <p align='center'>
   <a href='mailto:mobinbr99@gmail.com' title='Gmail'>
     <img width='40' height='40' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAABX0lEQVR4nO2WMUvDUBDHn4oIDoIgIggufgdXBxHEyc3Nr+BHqLNbwd4lq4tQMPcSS0EcXNxc/AQOUVAQBwcpovQvJ1bTZ5u0NaFL/nAQcv+7X+7yhmdMqVJFK/SwZQl3loGCIlbGH7AmCoSiA+8F7jIJoWUZ+6Nu0DL2hPDq9jVZ4MQHBA3C/KDAZhVzwjjp18+kggk3Dvw2YKxlQdWj3rReJg3crGJGGFUhtH/gjHdhHFQqmHRrAUzob7GEN2fC48jH7MDgzjupYccSnrumZ1w0jrDU8UQ+FoTRcDwv4mE3rbfJSkY+VoRw5az+MWRsBjWsC+HeyV0HPlaTPUYCq3wf08I4TK7eEj6+4hfYVo96h+ltUpPfEg8bwnjocfKfhLHdr+7fYNUpYdEyzhOTX54xltNqcgGr6nVMWUJFQ5+z/LmBh1UJLleNcR2ueCwXgVCvPsXC455Xn1KlTM76BKHnusU+k9DjAAAAAElFTkSuQmCC" alt='gmail'/>
   </a>
@@ -61,4 +65,9 @@
   <a href='https://t.me/mobinbarfi'>
     <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/000000/telegram.png" alt="telegram"/>
   </a>
+</p> -->
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/mobin-barfi-729a26224/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://t.me/mobinbarfi" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-eeeee4?style=flat-square&logo=Telegram&logoColor=white"></a>
 </p>
